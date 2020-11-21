@@ -1,0 +1,28 @@
+.note {
+    border: blue 1px solid;
+}
+
+.email {
+    border: green 1px solid;
+}
+
+.todo_ {
+    border: red 1px solid;
+}
+
+#entry {
+    border: black 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#result {
+    border: black 1px solid;
+    padding: 10px;
+}
+
+#email {
+    color:red;
+    text-align: center;
+    display: none;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: yellow;
+}
+
+.a-great-style {
+    font-family: Impact;
+}
+
+#p1 {
+    font-size: 21px;
+    background-color: black;
+    color: white;
+}
+
+#p2 {
+    font-size: 27px;
+    background-color: white;
+    color: black;
+}
+
+#blood {
+    color: red;
+    font-style: italic;
+}

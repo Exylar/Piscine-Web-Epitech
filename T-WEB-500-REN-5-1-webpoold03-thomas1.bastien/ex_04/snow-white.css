@@ -1,0 +1,36 @@
+body {
+    background-color: yellow;
+}
+
+.a-great-style {
+    font-family: Impact;
+}
+
+.left-bordered-and-big {
+    float: left;
+    width: 60%;
+    border: 1px solid black;
+}
+
+.right-bordered-and-small {
+    float: right;
+    width: 20%;
+    border: 1px solid black;
+}
+
+#p1 {
+    font-size: 21px;
+    background-color: black;
+    color: white;
+}
+
+#p2 {
+    font-size: 27px;
+    background-color: white;
+    color: black;
+}
+
+#blood {
+    color: red;
+    font-style: italic;
+}

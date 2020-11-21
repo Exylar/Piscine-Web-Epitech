@@ -1,0 +1,10 @@
+#entry {
+    border: black 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#result {
+    border: black 1px solid;
+    padding: 10px;
+}
